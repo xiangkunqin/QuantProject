@@ -8,8 +8,6 @@
 
 普量学院助教微信：niuxiaomi3
 """
-
-
 from datetime import datetime, timedelta
 
 import tushare as ts
@@ -21,7 +19,6 @@ from stock_util import get_trading_dates
 """
 从tushare获取股票基础数据，保存到本地的MongoDB数据库中
 """
-
 
 def crawl_basic(begin_date=None, end_date=None):
     """
@@ -112,4 +109,4 @@ def crawl_basic_at_date(date):
 
 
 if __name__ == '__main__':
-    crawl_basic('2017-01-01', '2017-12-31')
+    crawl_basic('2019-01-01', '2019-12-31')

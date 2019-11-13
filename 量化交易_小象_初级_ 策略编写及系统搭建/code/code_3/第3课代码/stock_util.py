@@ -52,10 +52,8 @@ def get_trading_dates(begin_date=None, end_date=None):
 def get_all_codes():
     """
     获取所有股票代码列表
-
     :return: 股票代码列表
     """
-
     # 通过distinct函数拿到所有不重复的股票代码列表
     return DB_CONN.basic.distinct('code')
 

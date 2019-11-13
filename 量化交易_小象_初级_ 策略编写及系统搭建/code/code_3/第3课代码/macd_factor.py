@@ -131,7 +131,6 @@ def compute_macd(begin_date, end_date):
             print('错误发生： %s' % code, flush=True)
             traceback.print_exc()
 
-
 def is_macd_gold(code, date):
     """
     判断某只股票在某个交易日是否出现MACD金叉信号
