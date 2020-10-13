@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7802a34-89b2-4374-b104-9266f5e1a3f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2/第2课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/boll_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/fractal_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/macd_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/rsi_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_3/第3课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_4/第4课代码/dual_ma_plus_1_baseline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_4/第4课代码/dual_ma_plus_2_inc_pos_by_pf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_4/第4课代码/dual_ma_plus_3_alloc_cash_by_atr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_4/第4课代码/dual_ma_plus_4_floating_exit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/boll_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/fractal_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/macd_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/rsi_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_5/第5课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Hans123策略示例/Python版本/hans123.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Hans123策略示例/Python版本/hans123.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Hans123策略示例/Python版本/来源.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Hans123策略示例/金字塔版本/hans123-jzt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Hans123策略示例/金字塔版本/来源.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Level1-ticks累积1min/Python版本/ticks_to_1m_bars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/Level1-ticks累积1min/另一个参考.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_6/第6课代码/买入三法/MC版本/买入三法.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_2/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code_2/basic_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+              <folding>
+                <element signature="e#142#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1242" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7802a34-89b2-4374-b104-9266f5e1a3f9" name="Default Changelist" comment="" />
+      <created>1573612565208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573612565208</updated>
+      <workItem from="1573612568287" duration="223000" />
+      <workItem from="1573612974512" duration="1862000" />
+      <workItem from="1573614943059" duration="43000" />
+      <workItem from="1573614988572" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="828" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22231205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_2/basic_crawler.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code_2/第2课代码/basic_crawler.py" />
+    <entry file="file://$PROJECT_DIR$/code_2/第2课代码/backtest.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pymongo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_2/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_2/basic_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#142#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

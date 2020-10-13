@@ -1,3 +1,0 @@
-https://github.com/vnpy/vnpy/blob/master/vnpy/trader/app/ctaStrategy/ctaTemplate.py
-
-参考其中 class BarGenerator(object) 的定义。

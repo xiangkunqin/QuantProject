@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7403f82f-a6b3-499d-9d9a-d3c2f49b9b71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_2/第2课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/boll_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/fractal_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/macd_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/rsi_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_3/第3课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_4/第4课代码/dual_ma_plus_1_baseline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_4/第4课代码/dual_ma_plus_2_inc_pos_by_pf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_4/第4课代码/dual_ma_plus_3_alloc_cash_by_atr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_4/第4课代码/dual_ma_plus_4_floating_exit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/.idea/第2课代码.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/basic_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/boll_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/daily_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/daily_fixing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/finance_report_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/fractal_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/macd_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/pe_computing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/rsi_factor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/sheduled_crawl_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/stock_pool_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_5/第5课代码/stock_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Hans123策略示例/Python版本/hans123.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Hans123策略示例/Python版本/hans123.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Hans123策略示例/Python版本/来源.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Hans123策略示例/金字塔版本/hans123-jzt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Hans123策略示例/金字塔版本/来源.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Level1-ticks累积1min/Python版本/ticks_to_1m_bars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/Level1-ticks累积1min/另一个参考.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_策略编写及系统搭建/code/code_6/第6课代码/买入三法/MC版本/买入三法.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/chart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/jukuan_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/jukuan_macd_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/jukuan_macd_signal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/resources/signals.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/signal_statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_2/macd_divergence/strategy_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_3/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_3/xiaoxiang-adv-3rd-stockpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_4/股票池-交易信号MACD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_4/股票池-交易信号均线.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_5/进阶课第五讲-MACD-跟踪止损.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_5/进阶课第五讲-双均线-跟踪止损.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_6/进阶课第六讲-MACD-头寸管理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_6/进阶课第六讲-双均线-头寸管理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_7/TurtleTrader-TB-full-sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_7/TurtleTrader-demo_version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/mean_regression_1.1_long_worst_only.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/mean_regression_1.2_long_best_only.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/mean_regression_2.1_long_short_free.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/mean_regression_2.2_long_short_cost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/mean_regression_3.1_long_only_with_atr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_8/profit_dist_movement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_indicator_v1_a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_indicator_v1_b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_indicator_v2_same.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_signal_v1_a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_signal_v1_b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_signal_v2_same_first.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/1.跨品种套利/spread_signal_v2_same_second.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/2.跨期套利/spread_indicator_v3_same.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../量化交易_迭代式的量化策略研发/code/code_9/2.跨期套利/spread_signal_v3_same.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code$basic_crawler.coverage" NAME="basic_crawler Coverage Results" MODIFIED="1573616076114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_a/code_2" />
+    <SUITE FILE_PATH="coverage/code$daily_crawler.coverage" NAME="daily_crawler Coverage Results" MODIFIED="1573616642331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_a/code_2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/backtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/daily_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2398">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/stock_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/finance_report_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/pe_computing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/sheduled_crawl_task.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/stock_pool_strategy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_a/code_2/daily_fixing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code_a/code_2/backtest.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/basic_crawler.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/database.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/finance_report_crawler.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/pe_computing.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/sheduled_crawl_task.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/stock_pool_strategy.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/stock_util.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/daily_fixing.py" />
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/tushare/stock/trading.py" />
+        <option value="$PROJECT_DIR$/code_a/code_2/daily_crawler.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="6" />
+    <option name="y" value="495" />
+    <option name="width" value="1884" />
+    <option name="height" value="1242" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="code_a" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.daily_crawler">
+    <configuration name="basic_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_a/code_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_a/code_2/basic_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="daily_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_a/code_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_a/code_2/daily_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.daily_crawler" />
+        <item itemvalue="Python.basic_crawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7403f82f-a6b3-499d-9d9a-d3c2f49b9b71" name="Default Changelist" comment="" />
+      <created>1573615299140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573615299140</updated>
+      <workItem from="1573615301031" duration="25068000" />
+      <workItem from="1573778305235" duration="1191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="828" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2061439" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22413793" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28735632" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_a/code_2/basic_crawler.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_a/code_2/basic_crawler.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/basic_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tushare/stock/trading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125">
+          <caret line="798" selection-start-line="798" selection-end-line="798" />
+          <folding>
+            <element signature="e#124#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/backtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/daily_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/stock_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/finance_report_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/pe_computing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/stock_pool_strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/daily_fixing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_a/code_2/sheduled_crawl_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
